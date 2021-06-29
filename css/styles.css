@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+/* Container */
+.container-fluid{
+    padding: 7% 15%;
+}
+
+
+/* Background */
+.backg-light{
+    background-color: #ededed;
+}
+
+.backg-dark{
+    background-color: #171717;
+    color: #fff;
+}
+
+.backg-lightdark{
+    background-color: #444444;
+    color: #fff;
+}
